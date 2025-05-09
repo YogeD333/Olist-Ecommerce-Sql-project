@@ -84,6 +84,6 @@ Run each analysis query separately to generate insights
 🎯 A small % of sellers drive most of the revenue.
 
 👋 About Me
-YOGESHWARAN p
+YOGESHWARAN P
 Aspiring Data Analyst | SQL Specialist | Focused on Business-Driven Insights
 yoged333@gmail.com
