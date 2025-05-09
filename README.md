@@ -43,7 +43,7 @@ Wrote modular SQL scripts that can easily be reused or plugged into dashboards
 
 --- Skills Demonstrated
 
-Advanced SQL querying (MySQL / PostgreSQL syntax)
+Advanced SQL querying (MySQL)
 
 Real-world data modeling from raw CSVs
 
